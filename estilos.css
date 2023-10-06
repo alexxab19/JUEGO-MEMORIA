@@ -1,0 +1,8 @@
+.alto-img{
+    height: 300px;
+}
+.tablero div img:hover{
+    filter: drop-shadow(2px 1px 3px rgb(220, 223, 220));
+    transform: scale(1.1);
+}
+
